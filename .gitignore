@@ -1,0 +1,5 @@
+data
+project/target/config-classes
+target/resolution-cache
+target/scala-2.10/classes
+target
